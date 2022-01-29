@@ -2,7 +2,7 @@
 
 Objetivo ver na prática uma forma bem simples para aprendizado a consulta de um CEP que retorne os dados API do ViaCep.
 
-Após rodar a aplicação na sua máquina local, para fazer uma consulta, acesse:
+Após rodar a aplicação na sua maquina local, para fazer uma consulta, acesse:
 
 http://localhost:8080/cep/38071140
 
